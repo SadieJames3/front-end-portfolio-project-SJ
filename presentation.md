@@ -26,5 +26,12 @@ Mei is a parent responsible for cooking family meals. She wants the app to sugge
 Add the API you will be consuming: www.themealdb.com/api/json/v1/1/random.php
 
 Bonus: Add Wireframes: 
-Please Slack me & Dan in one thread with the Github URL for your project (edited) 
+Please Slack me & Dan in one thread with the Github URL for your project (done) 
 
+
+
+One click data generation
+Possibly the option to save the last five generated answers
+Ability to prompt data based on ingredients, dietary restrictions and preferences
+Should have a calorie breakdown of entire meal
+Should be able to create meals based on specific shopping lists
