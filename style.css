@@ -1,5 +1,16 @@
-* {
+
+
+
+
+
+
+
+
+
+
+/* * {
   box-sizing: border-box;
+  opacity: 0.5;
 }
 
 body {
@@ -9,6 +20,9 @@ body {
   align-items: center;
   padding: 30px 0;
   min-height: 100vh;
+  background-image: url(./assets/fruit&grain.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 img {
@@ -26,10 +40,12 @@ p {
 
 h3 {
   margin: 0;
+  color: rgb(1, 6, 10);
 }
 
 h5 {
   margin: 10px 0;
+  color: rgb(1, 6, 10);
 }
 
 li {
@@ -69,6 +85,6 @@ li {
 
 @media (min-width: 350px) {
      body {
-          background-color: orangered;
+          /* background-color: orangered; */
      }
-}
+} */
