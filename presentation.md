@@ -29,9 +29,22 @@ Bonus: Add Wireframes:
 Please Slack me & Dan in one thread with the Github URL for your project (done) 
 
 
-
+App Goals:
 One click data generation
+Video tutorial
 Possibly the option to save the last five generated answers
-Ability to prompt data based on ingredients, dietary restrictions and preferences
-Should have a calorie breakdown of entire meal
-Should be able to create meals based on specific shopping lists
+<!-- Ability to prompt data based on ingredients, dietary restrictions and preferences -->
+<!-- Should have a calorie breakdown of entire meal -->
+<!-- Should be able to create meals based on specific shopping lists -->
+
+
+
+
+Front-end visual requirements
+<!-- Your application must have at least two .html files that are connected. -->
+Your application must include one or more .css files that are linked to one or more pages.
+Your application must include one or more .js files that are linked to one or more pages.
+You must make use of CSS Grid or CSS Flex to organize your content on at least one of your pages.
+You must use the :hover selector in at least one CSS rule.
+You must use an HTML form on at least one of your pages. That form must, minimally, contain a button that calls the API and generates some type of change to your page in the browser.
+All of your pages must have some visual changes that occur when the screen is a different size.
