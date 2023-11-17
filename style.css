@@ -7,13 +7,13 @@
 
 
 
-
+ 
 /* * {
   box-sizing: border-box;
   opacity: 0.5;
-}
+} */
 
-body {
+/* body {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,44 +23,44 @@ body {
   background-image: url(./assets/fruit&grain.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-}
+} */
 
-img {
+/* img {
      display: block;
      margin-left: auto;
      margin-right: auto;
      width: 50%;
-}
+} */
 
-p {
+/* p {
   margin-bottom: 5px;
   display: flex;
   text-align: justify;
-}
+} */
 
-h3 {
+/* h3 {
   margin: 0;
   color: rgb(1, 6, 10);
-}
+} */
 
-h5 {
+/* h5 {
   margin: 10px 0;
   color: rgb(1, 6, 10);
-}
+} */
 
-li {
+/* li {
   margin-bottom: 0;
-}
+} */
 
-.meal {
+/* .meal {
   margin: 20px 0;
-}
+} */
 
-.text-center {
+/* .text-center {
   text-align: center;
-}
+} */
 
-.videoWrapper {
+/* .videoWrapper {
   position: relative;
   padding-bottom: 56.25%;
   padding-top: 25px;
@@ -69,22 +69,22 @@ li {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
+} */
 
-.videoWrapper iframe {
+/* .videoWrapper iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 90%;
-}
+} */
 
-@media (max-width: 1250px) {
+/* @media (max-width: 1250px) {
     
-   }
+   } */
 
-@media (min-width: 350px) {
+/* @media (min-width: 350px) {
      body {
-          /* background-color: orangered; */
+          background-color: orangered;
      }
 } */
