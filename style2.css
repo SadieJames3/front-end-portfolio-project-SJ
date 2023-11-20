@@ -1,0 +1,14 @@
+* {
+     margin: 0;
+     border: 0;
+}
+
+img {
+     display: block;
+     border-radius: 200%;
+     max-width: 25%;
+     max-height: 25%;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+   }
